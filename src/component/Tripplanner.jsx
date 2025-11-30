@@ -162,7 +162,7 @@ export default function TravelPlanner() {
         </form>
       </div>
 
-      <CurrencyConverter />
+      
 
       {showTrips && (
         <div style={{ marginTop: "20px" }}>
