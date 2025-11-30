@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import CurrencyConverter from "./CurrencyConverter";
 import Mytrips from "./Mytrips";
 
 export default function TravelPlanner() {
